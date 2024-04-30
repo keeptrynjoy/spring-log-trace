@@ -1,1 +1,3 @@
 rootProject.name = 'logtrace'
+include 'log-trace-core'
+include 'sample-web'
